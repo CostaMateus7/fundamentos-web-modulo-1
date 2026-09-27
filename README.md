@@ -38,6 +38,7 @@ Durante o desenvolvimento, foram utilizados os seguintes recursos:
 ```text
 portfolio-mateus/
 ├── index.html
+├── style.css
 ├── imagens/
 │   └── foto-mateus.jpeg
 └── README.md
